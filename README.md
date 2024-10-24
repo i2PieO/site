@@ -1,2 +1,2 @@
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Deployment**: [Vercel](https://vercel.com)
+- **Framework**: [Next.js]
+- **Deployment**: [Vercel]
